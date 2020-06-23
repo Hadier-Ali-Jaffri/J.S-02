@@ -166,4 +166,82 @@
 // int max = 100;
 // int min = 1;
 // int showMe = min + randomNum.nextInt(max);
-// alert(showMe)
+// alert(showMe) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// alert("CHAPTER-31 TO 34")
+
+
+// alert("Task-01")
+
+// var a = new Date()
+// document.write(a)
+
+// alert("task-2")
+// var a = new Date()
+// var currMonth = a.getMonth()
+// alert(currMonth) 
+
+// const monthNames = ["January", "February", "March", "April", "May", "June",
+//   "July", "August", "September", "October", "November", "December"
+// ];
+
+// const d = new Date();
+// document.write("The current month is " + monthNames[d.getMonth()]);
+
+
+
+
+// alert("chapter 35 to 38")
+// alert("task - 02")
+
+// var nam = prompt("enter first name")
+// var nam1 = prompt("enter last name")
+// function greet(){
+//     document.write("Helo: "+nam + nam1)
+// }
+// greet();
+
+
+
+// alert("task-3")
+// function sum(a,b){
+//     alert(a + b)
+// }
+// sum(5,5)
+
+
+
+// alert("task-4")
+
+// function calc (num1,opr,num2){
+//     if(opr === "+"){
+//         return num1 + num2
+//     }
+//     else if (opr === "-"){
+//         return num1 - num2
+//     }
+//     else if (opr === "*"){
+//         return num1 * num2
+//     }
+//     else{
+//         return "Incorrect!"
+//     }
+// }
+// var ans = calc(10,"+",4)
+// var ans2 = calc(50,"-",35)
+// var ans3 = calc(8,"%",74)
+// alert(ans);
+// alert(ans2);
+// alert(ans3);
